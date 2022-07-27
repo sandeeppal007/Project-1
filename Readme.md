@@ -40,6 +40,7 @@
 ## About More
 
 	⚠️ This Project not Responsive so 📱 Mobile user cant seen exactly how site looking but i am working on it to make it responsive 
+  🔴 [live preview](https://sandeeppalproject1.netlify.app/)
 
 👀
 
